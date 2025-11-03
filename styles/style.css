@@ -16,13 +16,11 @@
   display: flex;
   gap: 32px;
 }
-.menu__item {
-}
+
 .header__links-list-item_no-bullit::marker {
   content: none;
 }
-.menu__link {
-}
+
 .header__link_active {
   text-decoration: none;
 }
@@ -30,10 +28,7 @@
   display: block;
   width: 150px;
 }
-.header__logo-image {
-}
-.address {
-}
+
 .header__address {
   justify-self: end;
   max-width: 240px;
@@ -81,8 +76,7 @@
   align-self: end;
   justify-self: end;
 }
-.cover__description {
-}
+
 .description {
   display: flex;
   justify-content: space-between;
@@ -134,8 +128,7 @@
   background-position: center;
   background-repeat: no-repeat;
 }
-.lots__list-item-link {
-}
+
 .lots__card {
   padding: 48px 40px;
 }
@@ -239,10 +232,7 @@
   font-size: 18px;
   line-height: 24px;
 }
-.address_email {
-}
-.footer__menu {
-}
+
 .footer__menu-list {
   list-style-type: none;
   text-align: center;
